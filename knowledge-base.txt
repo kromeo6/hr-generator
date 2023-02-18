@@ -1,6 +1,8 @@
 stackoverflow question about fine tuning gpt for question answering task
 https://stackoverflow.com/questions/56415280/fine-tune-gpt-2-text-prediction-for-conversational-ai
 
+blog about same question
+https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
 
-
+nshepards github page about gpt fine-tuning
 https://github.com/nshepperd/gpt-2
