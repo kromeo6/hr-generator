@@ -6,3 +6,6 @@ https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai
 
 nshepards github page about gpt fine-tuning
 https://github.com/nshepperd/gpt-2
+
+stackexchange question about tokenizers gpt2
+https://datascience.stackexchange.com/questions/86566/whats-the-right-input-for-gpt-2-in-nlp
