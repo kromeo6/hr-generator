@@ -9,3 +9,6 @@ https://github.com/nshepperd/gpt-2
 
 stackexchange question about tokenizers gpt2
 https://datascience.stackexchange.com/questions/86566/whats-the-right-input-for-gpt-2-in-nlp
+
+aws page about gpt 2 .  creative writing
+https://sagemaker-examples.readthedocs.io/en/latest/aws_marketplace/using_model_packages/creative-writing-using-gpt-2-text-generation/creative-writing-using-gpt-2-text-generation.html
